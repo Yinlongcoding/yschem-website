@@ -1,2 +1,0 @@
-# yschem-website
-yschem-website
